@@ -1,0 +1,10 @@
+C:\Users\Mateus\Documents\Projetos C#\ctrl_de_frota\bin\Debug\ctrl_de_frota.exe.config
+C:\Users\Mateus\Documents\Projetos C#\ctrl_de_frota\bin\Debug\ctrl_de_frota.exe
+C:\Users\Mateus\Documents\Projetos C#\ctrl_de_frota\bin\Debug\ctrl_de_frota.pdb
+C:\Users\Mateus\Documents\Projetos C#\ctrl_de_frota\obj\Debug\ctrl_de_frota.csprojAssemblyReference.cache
+C:\Users\Mateus\Documents\Projetos C#\ctrl_de_frota\obj\Debug\ctrl_de_frota.Form1.resources
+C:\Users\Mateus\Documents\Projetos C#\ctrl_de_frota\obj\Debug\ctrl_de_frota.Properties.Resources.resources
+C:\Users\Mateus\Documents\Projetos C#\ctrl_de_frota\obj\Debug\ctrl_de_frota.csproj.GenerateResource.cache
+C:\Users\Mateus\Documents\Projetos C#\ctrl_de_frota\obj\Debug\ctrl_de_frota.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\Projetos C#\ctrl_de_frota\obj\Debug\ctrl_de_frota.exe
+C:\Users\Mateus\Documents\Projetos C#\ctrl_de_frota\obj\Debug\ctrl_de_frota.pdb
